@@ -4,8 +4,8 @@ import "./globals.css";
 import Providers from "@/ui/Providers";
 
 export const metadata: Metadata = {
-  title: "Paperstack",
-  description: "Paperstack",
+  title: "TODO",
+  description: "TODO",
 };
 
 export default function RootLayout({

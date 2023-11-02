@@ -1,5 +1,7 @@
 ## Project
 
+Search for TODO and replace with your project name.
+
 ```bash
 pnpm install
 pnpm dev
